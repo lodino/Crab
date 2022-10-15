@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+code/.DS_Store
+.DS_Store
+code/races_White-Black or African American_loan_purposes_1_year_2019.csv
