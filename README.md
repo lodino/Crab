@@ -1,2 +1,2 @@
 # Crab
-Code for Crab: Learning Certifiably Fair Predictive Models in the Presence of Selection Bias
+Code for paper: Consistent Range Approximation for Fair Predictive Modeling
